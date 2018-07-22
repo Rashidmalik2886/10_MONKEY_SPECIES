@@ -1,0 +1,1 @@
+Here 10 categories of Monkey images saves in folders name n0,n1.....n9
